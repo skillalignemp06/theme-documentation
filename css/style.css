@@ -142,11 +142,6 @@ span.number {
 }
 
 
-.site-logo {
-    width: 190px;
-}
-
-
 /* Minimalin */
 .ltn__utilize-menu>ul>li>a.theme-btn-1 {
     color: var(--white);
@@ -161,3 +156,4 @@ a.page-scroll.btn.theme-btn-1:hover {
   width: 100%;
 
 }
+
