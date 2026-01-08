@@ -12,7 +12,7 @@
 }
 .site-logo a img {
     height: 50px;
-    width: 50px;
+    width: auto;
     object-fit: cover;
 }
 .site-logo a {
@@ -159,4 +159,5 @@ a.page-scroll.btn.theme-btn-1:hover {
 .video {
   aspect-ratio: 16 / 9;
   width: 100%;
+
 }
